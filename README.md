@@ -53,7 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MKDGThathsarani&theme=radical&no-frame=true&row=1&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MKDGThathsarani&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" width="100%" />
 </p>
 
 ---
