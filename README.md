@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm M.K.D. Githmi Thathsarani
 
-<!--
-**MKDGThathsarani/MKDGThathsarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer · Code Commander**
 
-Here are some ideas to get you started:
+![Visitors](https://api.visitorbadge.io/api/visitors?path=MKDGThathsarani&label=VISITORS&countColor=%23263759)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 About Me
+
+```bash
+$ whoami
+> MKDGThathsarani
+
+$ cat profile.json
+{
+  "location": "Sri Lanka",
+  "role": "Full-Stack Developer",
+  "mission": "Build scalable systems. Ship fast.",
+  "interests": ["distributed systems", "open source", "cloud-native"],
+  "currently": "Architecting things that should not break at 3 AM",
+  "fun_fact": "I love coding at night"
+}
