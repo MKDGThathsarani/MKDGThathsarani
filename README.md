@@ -1,31 +1,128 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;I'm+M.K.D.+Githmi+Thathsarani;Full-Stack+Developer+💻;Code+Commander+🎯;From+Sri+Lanka+🇱🇰" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Githmi+Thathsarani;Full-Stack+Developer;From+Sri+Lanka" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MKDGThathsarani?style=for-the-badge&logo=github&color=blueviolet" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MKDGThathsarani?style=for-the-badge&logo=github&color=gold" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/MKDGThathsarani?style=flat-square&logo=github&color=blueviolet" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Tech Stack & Tools
 
-```python
-class FullStackDeveloper:
-    def __init__(self):
-        self.name = "M.K.D. Githmi Thathsarani"
-        self.location = "Sri Lanka 🇱🇰"
-        self.role = "Full-Stack Developer"
-        self.mission = "Build scalable systems. Ship fast. Break nothing."
-        self.interests = ["Distributed Systems", "Open Source", "Cloud-Native", "AI/ML"]
-        self.currently = "Architecting systems that never fail at 3 AM 🌙"
-        self.fun_fact = "I debug in my sleep... literally 😴"
-        self.learning = "System Design & Cloud Architecture ☁️"
-    
-    def quote(self):
-        return "First, solve the problem. Then, write the code."
-    
-    def daily_mantra(self):
-        return "Code. Coffee. Repeat. ☕"
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,django" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,azure" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MKDGThathsarani&theme=radical&no-frame=true&row=1&column=5" />
+</p>
+
+---
+
+## 📊 Weekly Development Breakdown
+JavaScript 4 hrs 20 mins ██████████████████░░░░░░░ 42%
+TypeScript 2 hrs 45 mins ████████████░░░░░░░░░░░░░ 28%
+Java 1 hr 30 mins ██████░░░░░░░░░░░░░░░░░░░ 15%
+Python 1 hr 15 mins █████░░░░░░░░░░░░░░░░░░░░ 12%
+HTML/CSS 30 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 3%
+
+text
+
+---
+
+## 🎯 Current Focus
+🌐 System Design & Microservices
+☁️ Cloud Computing (AWS/Azure)
+🤖 AI Integration & LLMs
+📱 Full-Stack Development
+
+text
+
+---
+
+## 📅 Recent Activity
+
+- 💻 Working on [Project Name]
+- 📚 Learning Cloud Architecture
+- 🚀 Building scalable applications
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MKDGThathsarani">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKDGThathsarani&theme=radical" />
+</p>
+
+---
+
+## 🎨 Fun Section
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+</p>
