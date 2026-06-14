@@ -59,11 +59,12 @@
 
 ## 🎯 <span style="color:#ffb703">Current Focus</span>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=🌐+System+Design+%26+Microservices;☁️+Cloud+Computing+(AWS%2FAzure);🤖+AI+Integration+%26+LLMs;📱+Full-Stack+Development" />
-</p>
+🌐 System Design & Microservices
+☁️ Cloud Computing (AWS/Azure)
+🤖 AI Integration & LLMs
+📱 Full-Stack Development
 
-<br/>
+text
 
 ---
 
