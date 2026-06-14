@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Githmi+Thathsarani;Full-Stack+Developer;From+Sri+Lanka" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Githmi+Thathsarani;Full-Stack+Developer;From+Sri+Lanka" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/MKDGThathsarani?style=flat-square&logo=github&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=👁️%20Views&color=blueviolet&style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/MKDGThathsarani?style=for-the-badge&logo=github&logoColor=white&label=⭐%20Followers&color=blueviolet" />
 </p>
+
+<br/>
 
 ---
 
