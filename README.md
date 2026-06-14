@@ -3,11 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=👁️%20PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Views&color=0e75b6&style=flat" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/MKDGThathsarani?label=⭐%20FOLLOWERS&style=for-the-badge&logo=github&color=0e75b6" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/MKDGThathsarani?label=✨%20TOTAL%20STARS&style=for-the-badge&logo=github&color=ffb703" />
+  <img src="https://img.shields.io/github/followers/MKDGThathsarani?label=Followers&style=social" />
 </p>
 
 ---
