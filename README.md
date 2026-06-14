@@ -54,7 +54,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/MKDGThathsarani/MKDGThathsarani/blob/output/github-snake.svg?raw=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MKDGThathsarani/MKDGThathsarani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MKDGThathsarani/MKDGThathsarani/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MKDGThathsarani/MKDGThathsarani/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
