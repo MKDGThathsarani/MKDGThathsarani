@@ -51,22 +51,51 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MKDGThathsarani&theme=radical&no-frame=true&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://raw.githubusercontent.com/MKDGThathsarani/MKDGThathsarani/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📊 Weekly Development Breakdown
-JavaScript 4 hrs 20 mins ██████████████████░░░░░░░ 42%
-TypeScript 2 hrs 45 mins ████████████░░░░░░░░░░░░░ 28%
-Java 1 hr 30 mins ██████░░░░░░░░░░░░░░░░░░░ 15%
-Python 1 hr 15 mins █████░░░░░░░░░░░░░░░░░░░░ 12%
-HTML/CSS 30 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 3%
 
-text
+| Language | Time | % |
+|----------|------|---|
+| JavaScript | 4 hrs 20 mins | 42% |
+| TypeScript | 2 hrs 45 mins | 28% |
+| Java | 1 hr 30 mins | 15% |
+| Python | 1 hr 15 mins | 12% |
+| HTML/CSS | 30 mins | 3% |
+
+<p align="center">
+  <i>Last updated: June 2026</i>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  ⭐ 10+ Repositories &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔥 3,600+ Contributions &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎯 38 Stars Earned &nbsp;&nbsp;|&nbsp;&nbsp;
+  🤝 13 PRs Merged
+</p>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+| Language | Time | % |
+|----------|------|---|
+| JavaScript | 4 hrs 20 mins | 42% |
+| TypeScript | 2 hrs 45 mins | 28% |
+| Java | 1 hr 30 mins | 15% |
+| Python | 1 hr 15 mins | 12% |
+| HTML/CSS | 30 mins | 3% |
+
 
 ---
 
