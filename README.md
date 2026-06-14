@@ -1,5 +1,7 @@
 <h1 align="center">Hi! I'm Githmi Thathsarani 👋</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Githmi+Thathsarani;Full-Stack+Developer;From+Sri+Lanka" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Views&color=0e75b6&style=flat" />
   &nbsp;
