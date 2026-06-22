@@ -16,11 +16,17 @@
 
 ## 👩‍💻 <span style="color:#36BCF7">About Me</span>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
+</p>
+
 🔹 **3rd Year Undergraduate** pursuing BSc (Hons) in Software Engineering  
 🔹 Passionate about **Full-Stack Development**, **Cloud Computing** & **System Design**  
 🔹 Currently exploring **Microservices Architecture** & **AI Integration**  
 🔹 Love **Open Source** contributions & building **real-world projects**  
 🔹 Based in **Sri Lanka** 🇱🇰 | Looking for **Internship** opportunities  
+
+<br/>
 
 ---
 
