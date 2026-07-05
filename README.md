@@ -63,9 +63,18 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Contribution Stats Cards - These will show your actual data -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=ffb703" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=ffb703&fire=ffb703&currStreakLabel=36BCF7" width="49%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=ffb703" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=ffb703&fire=ffb703&currStreakLabel=36BCF7" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
