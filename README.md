@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 <span style="color:#36BCF7">About Me</span>
+## 👩‍💻 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
@@ -30,29 +30,29 @@
 
 ---
 
-## 🚀 <span style="color:#36BCF7">Tech Stack & Tools</span>
+## 🚀 Tech Stack & Tools
 
-### 💻 **Languages**
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 </p>
 
-### 🎨 **Frontend**
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
 </p>
 
-### ⚙️ **Backend**
+### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi" />
 </p>
 
-### 🗄️ **Databases**
+### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
 </p>
 
-### ☁️ **Cloud & DevOps**
+### ☁️ Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
 </p>
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 <span style="color:#36BCF7">GitHub Analytics</span>
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=ffb703" width="49%" />
@@ -78,7 +78,7 @@
 
 ---
 
-## 📈 <span style="color:#36BCF7">Contribution Activity</span>
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=36BCF7&line=ffb703&point=ffffff" />
@@ -88,7 +88,7 @@
 
 ---
 
-## 💡 <span style="color:#36BCF7">What I Bring to the Table</span>
+## 💡 What I Bring to the Table
 
 - ✅ **3rd Year Software Engineering** student with strong fundamentals
 - ✅ Full-Stack Development skills (MERN, Spring Boot)
@@ -100,7 +100,7 @@
 
 ---
 
-## 🎯 <span style="color:#36BCF7">Looking For</span>
+## 🎯 Looking For
 
 - 🌟 **Internship Opportunities** (Full-Stack/Backend/Cloud)
 - 💼 **Junior Developer** roles
@@ -109,7 +109,7 @@
 
 ---
 
-## 🏆 <span style="color:#ffb703">Academic Achievements</span>
+## 🏆 Academic Achievements
 
 - 🎓 **BSc (Hons) Software Engineering** - 3rd Year
 - 📊 **GPA**: 3.5+ / 4.0
@@ -119,7 +119,7 @@
 
 ---
 
-## 📚 <span style="color:#36BCF7">Featured Projects</span>
+## 📚 Featured Projects
 
 <div align="center">
   <table>
@@ -154,7 +154,7 @@
 
 ---
 
-## 🤝 <span style="color:#ffb703">Let's Connect</span>
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://github.com/MKDGThathsarani">
@@ -174,7 +174,7 @@
 
 ---
 
-## 📌 <span style="color:#36BCF7">Why Hire Me?</span>
+## 📌 Why Hire Me?
 
 > 💬 "I'm a passionate student who codes with purpose, learns with enthusiasm, and builds with attention to detail. Ready to contribute, grow, and make an impact!"
 
@@ -182,7 +182,7 @@
 
 ---
 
-## 🎨 <span style="color:#36BCF7">Fun Corner</span>
+## 🎨 Fun Corner
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" />
