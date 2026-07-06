@@ -73,6 +73,7 @@
 
 ## 📊 GitHub Analytics
 
+<!-- These may show "Failed to retrieve" due to API rate limits - they will work after a few minutes -->
 <div align="center">
   <table>
     <tr>
