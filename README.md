@@ -77,29 +77,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=ffb703&rank_icon=github&include_all_commits=true" width="100%" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=ffb703&fire=ffb703&currStreakLabel=36BCF7" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=ffb703&rank_icon=github&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=ffb703&fire=ffb703&currStreakLabel=36BCF7" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="45%" />
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MKDGThathsarani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="45%" />
 </div>
 
 <br/>
 
----
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/MKDGThathsarani?style=for-the-badge&logo=github&color=36BCF7)
+![GitHub stars](https://img.shields.io/github/stars/MKDGThathsarani?style=for-the-badge&logo=github&color=ffb703)
+![GitHub contributions](https://img.shields.io/badge/Contributions-2026-blue?style=for-the-badge&logo=github&color=36BCF7)
+![GitHub repos](https://img.shields.io/badge/Repositories-5+-green?style=for-the-badge&logo=github&color=00ff88)
+
+</div>
 
 ## 📈 Contribution Activity
 
