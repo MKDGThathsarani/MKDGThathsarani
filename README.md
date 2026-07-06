@@ -76,10 +76,10 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=ffb703&rank_icon=github&include_all_commits=true" width="100%" />
       </td>
-      <td>
+      <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=ffb703&fire=ffb703&currStreakLabel=36BCF7" width="100%" />
       </td>
     </tr>
@@ -89,9 +89,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="45%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MKDGThathsarani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="45%" />
 </div>
 
 ---
@@ -107,7 +105,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=36BCF7&line=ffb703&point=ffffff&custom_title=🔥%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=36BCF7&line=ffb703&point=ffffff" />
 </div>
 
 <br/>
@@ -320,9 +318,74 @@
 
 ## 📊 Weekly Development Breakdown
 
-```text
-Java          15 hrs 30 mins  ████████████░░░░░░░░░   48.2%
-Python        8 hrs 45 mins   ████████░░░░░░░░░░░░░   27.1%
-JavaScript    5 hrs 20 mins   ██████░░░░░░░░░░░░░░░   16.5%
-HTML/CSS      2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░   7.0%
-Other         0 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░   1.2%
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2"><strong>⏰ My Coding Activity</strong></td>
+    </tr>
+    <tr>
+      <td>🔵 Java</td>
+      <td>████████████████████████░░░░░ 15 hrs 30 mins (48.2%)</td>
+    </tr>
+    <tr>
+      <td>🟢 Python</td>
+      <td>██████████████░░░░░░░░░░░░░░░ 8 hrs 45 mins (27.1%)</td>
+    </tr>
+    <tr>
+      <td>🟡 JavaScript</td>
+      <td>██████████░░░░░░░░░░░░░░░░░░░ 5 hrs 20 mins (16.5%)</td>
+    </tr>
+    <tr>
+      <td>🔴 HTML/CSS</td>
+      <td>████░░░░░░░░░░░░░░░░░░░░░░░░░ 2 hrs 15 mins (7.0%)</td>
+    </tr>
+    <tr>
+      <td>⚪ Other</td>
+      <td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0 hrs 30 mins (1.2%)</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-48.2%25-ED8B00?style=for-the-badge&logo=java)
+  ![Python](https://img.shields.io/badge/Python-27.1%25-3776AB?style=for-the-badge&logo=python)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-16.5%25-F7DF1E?style=for-the-badge&logo=javascript)
+  ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-7.0%25-E34F26?style=for-the-badge&logo=html5)
+  
+</div>
+
+---
+
+## 🚀 Featured Project: Internet Technology Learning Portfolio
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🌐 HTML Mastery Reference Guide</h3>
+        <p>80+ HTML tags with semantic structure, real-world examples & responsive design</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+        </p>
+        <a href="https://mkdgthathsarani.github.io/internet-tech-learning-outcomes-demonstration/">
+          <img src="https://img.shields.io/badge/Live_Demo-View-00b4d8?style=for-the-badge" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/MKDGThathsarani/internet-tech-learning-outcomes-demonstration">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
