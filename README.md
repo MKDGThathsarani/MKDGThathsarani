@@ -1,222 +1,196 @@
 <div align="center">
 
-# 👋 Hello, I'm M.K.D. Githmi Thathsarani
+# 👩‍💻 M.K.D. Githmi Thathsarani
 
-### Software Engineering Undergraduate • AI Engineer in Progress • Full Stack Developer • Cloud Computing Enthusiast
+### Software Engineering Undergraduate | AI Enthusiast | Full Stack Developer | Cloud Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Building+AI-Powered+Applications;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+Software+Engineering;Always+Learning+%F0%9F%9A%80" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hello%2C+World!;Welcome+to+My+GitHub;Building+the+Future+with+Code;AI+%26+Cloud+Enthusiast;Full+Stack+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-[![GitHub followers](https://img.shields.io/github/followers/MKDGThathsarani?logo=github&style=for-the-badge)](https://github.com/MKDGThathsarani)
-
-[![GitHub Stars](https://img.shields.io/github/stars/MKDGThathsarani?affiliations=OWNER&style=for-the-badge)](https://github.com/MKDGThathsarani)
+[![GitHub followers](https://img.shields.io/github/followers/MKDGThathsarani?style=for-the-badge&logo=github&color=7159c1)](https://github.com/MKDGThathsarani)
+[![GitHub stars](https://img.shields.io/github/stars/MKDGThathsarani?style=for-the-badge&logo=github&color=ff6b6b)](https://github.com/MKDGThathsarani)
+[![Profile Views](https://komarev.com/ghpvc/?username=MKDGThathsarani&style=for-the-badge&color=blueviolet)](https://github.com/MKDGThathsarani)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🎯 About Me
 
-```yaml
-Name: M.K.D. Githmi Thathsarani
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "M.K.D. Githmi Thathsarani"
+        self.role = "Software Engineering Undergraduate"
+        self.location = "Sri Lanka 🇱🇰"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Cloud Computing",
+            "Full Stack Development",
+            "DevOps",
+            "Software Architecture"
+        ]
+        self.current_learning = [
+            "Docker & Kubernetes",
+            "AWS Cloud Services",
+            "Generative AI",
+            "Microservices",
+            "System Design"
+        ]
+        self.mission = "Build innovative software solutions powered by AI"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together! 🚀")
+🚀 Tech Stack
+Languages
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/C%252B%252B-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
+https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
-Role: Software Engineering Undergraduate
+Frontend
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
 
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cloud Computing
-  - Full Stack Development
-  - DevOps
-  - Software Architecture
+Backend
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 
-Currently Learning:
-  - Docker
-  - Kubernetes
-  - AWS
-  - System Design
-  - Generative AI
-  - Microservices
+Databases
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
 
-Mission:
-  Build scalable software powered by Artificial Intelligence.
-```
+Cloud & DevOps
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white
 
----
+Tools
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
-# 🚀 What I'm Working On
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=tokyonight&hide_border=true" /></div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=tokyonight&hide_border=true" /></div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=tokyo-night&hide_border=true" /></div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MKDGThathsarani&theme=algolia&column=5&margin-w=15&margin-h=15" /></div>
+📌 Featured Projects
+<table> <tr> <td width="50%">
+🤖 AI Applications
+Building intelligent systems using AI & ML
 
-- 🤖 AI Powered Applications
-- ☁ Cloud Computing Projects
-- 🌐 Modern Full Stack Web Applications
-- 📱 Cross Platform Development
-- ⚡ DevOps Automation
-- 🔥 Open Source Contributions
+Natural Language Processing
 
----
+Computer Vision Projects
 
-# 💻 Tech Stack
+Generative AI Applications
 
-## Languages
+</td> <td width="50%">
+☁️ Cloud Projects
+Cloud-native applications and deployments
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,c,cpp,cs&perline=8"/>
-</p>
+Docker Containerization
 
----
+Kubernetes Orchestration
 
-## Frontend
+Serverless Computing
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite"/>
-</p>
+</td> </tr> <tr> <td width="50%">
+🌐 Full Stack Apps
+Modern web applications
 
----
+React/Next.js Frontends
 
-## Backend
+Node.js/Express Backends
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,django"/>
-</p>
+RESTful APIs
 
----
+Database Design
 
-## Databases
+</td> <td width="50%">
+🚀 DevOps
+Automation and CI/CD pipelines
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase"/>
-</p>
+GitHub Actions
 
----
+Jenkins
 
-## Cloud & DevOps
+Infrastructure as Code
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions"/>
-</p>
+Monitoring & Logging
 
----
+</td> </tr> </table>
+🎓 Education
+BSc (Hons) in Software Engineering (2022-2026)
 
-## Tools
+Specializing in Artificial Intelligence
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,idea"/>
-</p>
+Focus on Cloud Computing & DevOps
 
----
+Research in Machine Learning
 
-# 📊 GitHub Statistics
-
+📚 Currently Learning
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=tokyonight&hide_border=true"/>
-
+Technology	Progress
+Docker & Kubernetes	🔵🔵🔵🔵⚪ 80%
+AWS Cloud Services	🔵🔵🔵⚪⚪ 60%
+Generative AI	🔵🔵🔵⚪⚪ 55%
+System Design	🔵🔵🔵⚪⚪ 50%
+Microservices	🔵🔵⚪⚪⚪ 40%
 </div>
+🌟 Goals for 2026
+Master Full Stack Development
 
----
+Get AWS Certified
 
-# 📈 Most Used Languages
+Build AI-Powered Applications
 
+Contribute to Open Source
+
+Write Technical Articles
+
+Learn System Design
+
+Build a Product Portfolio
+
+🤝 Let's Connect
 <div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=tokyonight&hide_border=true"/>
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 </div>
-
----
-
-# 📅 Contribution Graph
-
+💡 Quote of the Day
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=tokyo-night&hide_border=true"/>
+"The only way to do great work is to love what you do."
+— Steve Jobs
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
 <div align="center">
+Show some ❤️ by starring my repositories!
+https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg
 
-<img src="https://github-profile-trophy.vercel.app/?username=MKDGThathsarani&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+⭐ Thanks for visiting! Keep coding, keep learning! 🚀
 
-</div>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Applications | Intelligent software using AI & ML |
-| 🌍 Travel Planner | Smart travel planning system |
-| ☁ Cloud Projects | Docker, Kubernetes & Cloud deployments |
-| 💊 Pharmacy System | Healthcare Management Solution |
-| 📚 University Projects | Academic Software Engineering Projects |
-
----
-
-# 📚 Currently Exploring
-
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- AI Agents
-- Prompt Engineering
-- Cloud Native Applications
-- Kubernetes
-- Microservices
-- DevSecOps
-- Software Architecture
-- System Design
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Full Stack Development
-- ✅ Become Cloud Certified
-- ✅ Build AI SaaS Products
-- ✅ Contribute to Open Source
-- ✅ Publish Technical Articles
-- ✅ Learn Kubernetes & DevOps
-- ✅ Build Production Ready Systems
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/MKDGThathsarani">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Philosophy
-
-> **"Keep Learning. Keep Building. Keep Improving."**
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
----
-
-⭐ Thanks for visiting my profile!
-
-</div>
+</div> ```
