@@ -75,7 +75,7 @@ A food ordering website with a user-friendly interface.
 - **Tech:** HTML
 - [🔗 View Repository](https://github.com/MKDGThathsarani/Other_Buddy)
 
-### 🚗💊 Pharmacy Management System
+### 💊 Pharmacy Management System
 Complete ePharmacy solution with product management, shopping cart, and admin panel. Full CRUD operations.
 - **Tech:** PHP, MySQL, Bootstrap
 - [🔗 View Repository](https://github.com/MKDGThathsarani/pharmacy-management-system)
@@ -105,7 +105,7 @@ Premium beauty salon website featuring elegant design, online booking system, se
 
 <!--RECENT_ACTIVITY:start-->
 - 🎉 Created new repository [MindMate](https://github.com/MKDGThathsarani/MindMate)
-- 🎉 Created new repository [internet-tech-learning-out...](https://github.com/MKDGThathsarani/internet-tech-learning-out...)
+- 🎉 Created new repository [internet-tech-learning-outcomes](https://github.com/MKDGThathsarani/internet-tech-learning-outcomes)
 - 🎉 Created new repository [Web-App-Development](https://github.com/MKDGThathsarani/Web-App-Development)
 - 🔀 Merged PR in [Web-App-Development](https://github.com/MKDGThathsarani/Web-App-Development)
 - 🔀 Merged PR in [MindMate](https://github.com/MKDGThathsarani/MindMate)
@@ -117,7 +117,7 @@ Premium beauty salon website featuring elegant design, online booking system, se
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/m-k-d-githmi-thathsarani-91754a297/)
 - 🔗 [Facebook](https://www.facebook.com/profile.php?id=100088705981957)
-- 📧 **Email:** [Your Email Here]
+- 📧 **Email:** mkdgthathsarani@gmail.com
 
 ---
 
