@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | Software Engineering Undergraduate | From Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Profile%20Views&color=0e75b6&style=flat" alt="MKDGThathsarani" />
+  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -114,14 +114,23 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+<!-- GitHub Stats Cards - හරියට පෙන්වීමට HTML Tags භාවිතා කර ඇත -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=dark&hide_border=true" alt="GitHub Streak" width="70%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -164,10 +173,10 @@
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=react-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
