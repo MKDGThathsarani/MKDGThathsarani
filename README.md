@@ -194,7 +194,3 @@ graph LR
 </div>
 
 ---
-
-  <br>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=flat-square" />
-</div>
