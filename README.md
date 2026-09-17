@@ -1,23 +1,16 @@
-<h1 align="center">Hi 👋, I'm Githmi Thathsarani</h1>
-<h3 align="center">Full-Stack Developer | Software Engineering Student | AI & Cloud Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Hi%20👋,%20I'm%20Githmi%20Thathsarani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20&%20Cloud%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+</div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Building the Future, One Line of Code at a Time
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Profile%20Views&color=FF6B6B&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MKDGThathsarani?style=flat-square&color=4ECDC4" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MKDGThathsarani?style=flat-square&color=FFE66D" alt="Stars" />
-</p>
-
----
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKDGThathsarani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=4ECDC4&line=FF6B6B&point=FFE66D" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MKDGThathsarani?style=for-the-badge&color=4ECDC4&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/MKDGThathsarani?style=for-the-badge&color=FFE66D&label=Stars" alt="Stars" />
 </div>
+
+<br>
 
 ---
 
