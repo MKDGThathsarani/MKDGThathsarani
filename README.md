@@ -38,3 +38,9 @@ const githmi = {
   funFact: "I debug code while listening to Lofi 🎧",
   motto: "Code, Learn, Innovate, Repeat 🔄"
 };
+  location: "Sri Lanka 🇱🇰",
+  passions: ["Full-Stack Development", "Artificial Intelligence", "Cloud Computing"],
+  currentlyLearning: ["Docker", "Kubernetes", "AWS", "Microservices"],
+  funFact: "I debug code while listening to Lofi 🎧",
+  motto: "Code, Learn, Innovate, Repeat 🔄"
+};
