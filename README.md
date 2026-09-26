@@ -1,72 +1,119 @@
-<h1 align="center">Hi there, I'm M.K.D. Githmi Thathsarani 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+Designer;Software+Engineering+Student;Seeking+Internship+Opportunities" alt="Typing SVG" />
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Githmi%20Thathsarani&fontSize=40&fontAlignY=35&animation=twinkling" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-k-d-githmi-thathsarani-91754a297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/MKDGThathsarani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:mkdgthathsarani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+Designer;Software+Engineering+Student;Actively+Seeking+Internship+Opportunities" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Social & Contact Badges -->
+  <a href="https://www.linkedin.com/in/m-k-d-githmi-thathsarani-91754a297/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mkdgthathsarani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/MKDGThathsarani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+<br/>
+
+## 👩‍💻 About Me
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I am a passionate **Full-Stack Developer** and an undergraduate at **Gampaha Wickramarachchi University**. I love building digital solutions from the ground up, whether it's crafting smooth user interfaces or designing robust back-end systems. 
+
+* 🎓 **Education:**
+  * Undergraduate at **Gampaha Wickramarachchi University**
+  * Diploma in **Web Designing and Development** (Completed) - **Warltin International Campus**
+  * Diploma in **Software Engineering** (Reading) - **ICET Institute of Computer Engineering Technology**
+* 💼 **Current Status:** Actively seeking a **Full-Stack Developer Internship** opportunity.
+* 🌱 **Learning:** Cloud Computing, Microservices & Advanced Full-Stack Development.
+* 💬 **Ask me about:** Web Development, Frontend & Backend technologies.
+* ⚡ **Fun fact:** I love turning complex problems into simple, beautiful code.
+
+<br clear="both"/>
 
 ---
 
-### 👩‍💻 About Me
+## 🛠️ Tech Stack & Tools
 
-*   🎓 I'm an undergraduate at **Gampaha Wickramarachchi University**.
-*   💻 I hold a Diploma in **Web Designing and Development** from **Warltin International Campus**.
-*   📚 Currently pursuing a Diploma in **Software Engineering** at **ICET Institute of Computer Engineering Technology**.
-*   🚀 Passionate about building scalable web applications and crafting smooth digital experiences.
-*   🌱 I’m currently learning and exploring more about **Cloud, Microservices & Full-Stack Development**.
-*   💼 **I am actively looking for a Full-Stack Developer Internship opportunity.**
-*   💬 Ask me about **Web Development, Frontend & Backend technologies**.
-*   📫 How to reach me: **mkdgthathsarani@gmail.com**
-*   ⚡ Fun fact: I love turning complex problems into simple, beautiful code.
+<div align="center">
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
+  **Frontend & Design**
+  <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  
+  <br/><br/>
+
+  **Backend & Databases**
+  <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <br/><br/>
+
+  **Tools & Version Control**
+  <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=radical&hide_border=true" alt="Githmi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical&hide_border=true" alt="Githmi's GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MKDGThathsarani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" alt="Githmi's GitHub Stats" width="48%" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="Githmi's GitHub Streak" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<br/>
 
----
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKDGThathsarani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" alt="Top Languages" width="40%" />
+</div>
 
-### 📫 Let's Connect & Build Something Amazing!
+## 🤝 Let's Connect!
 
-<p align="center">
-  <a href="mailto:mkdgthathsarani@gmail.com"><b>📧 mkdgthathsarani@gmail.com</b></a> | 
-  <a href="https://www.linkedin.com/in/m-k-d-githmi-thathsarani-91754a297/"><b>🔗 LinkedIn</b></a>
-</p>
+I am always open to collaborating on projects or discussing new opportunities. Feel free to reach out!
 
-<p align="center">
+<div align="center">
+  <a href="mailto:mkdgthathsarani@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-mkdgthathsarani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/m-k-d-githmi-thathsarani-91754a297/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
   <i>"Always learning, always building."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MKDGThathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
