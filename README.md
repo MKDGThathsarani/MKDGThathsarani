@@ -81,19 +81,19 @@ I am a passionate **Full-Stack Developer** and an undergraduate at **Gampaha Wic
 
 <div align="center">
   
-  <!-- Profile Details Card (Full Width) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKDGThathsarani&theme=radical" alt="Githmi's GitHub Stats" width="100%" />
+  <!-- Profile Details Card (Width Reduced to 80%) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKDGThathsarani&theme=radical" alt="Githmi's GitHub Stats" width="80%" />
 
   <br/><br/>
 
-  <!-- Top Languages Side by Side -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MKDGThathsarani&theme=radical" alt="Top Languages by Repo" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MKDGThathsarani&theme=radical" alt="Top Languages by Commit" width="49%" />
+  <!-- Top Languages Side by Side (Width Reduced to 40%) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MKDGThathsarani&theme=radical" alt="Top Languages by Repo" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MKDGThathsarani&theme=radical" alt="Top Languages by Commit" width="40%" />
 
   <br/><br/>
 
-  <!-- GitHub Streak Stats (Centered & Smaller) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="Githmi's GitHub Streak" width="60%" />
+  <!-- GitHub Streak Stats (Width Reduced to 50%) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKDGThathsarani&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="Githmi's GitHub Streak" width="50%" />
 
 </div>
 
