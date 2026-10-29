@@ -1,3 +1,15 @@
+<div align="center">
+  <!-- ඔයා හදාගත්ත Header එක මෙතනට දාන්න -->
+  <img src="./header.svg" alt="Header Banner" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:mkdgthathsarani@gmail.com"><img src="https://img.shields.io/badge/Email-mkdgthathsarani%40gmail.com-0A192F?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/m-k-d-githmi-thathsarani-91754a297"><img src="https://img.shields.io/badge/LinkedIn-Githmi_Thathsarani-0A192F?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn" /></a>
+  <a href="https://github.com/MKDGThathsarani"><img src="https://img.shields.io/badge/GitHub-MKDGThathsarani-0A192F?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub" /></a>
+</div>
 ## 🚀 Tech Stack
 
 <div align="center">
